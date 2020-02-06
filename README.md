@@ -34,7 +34,3 @@ You will get a list with entries like this:
     "region": "Чечня"
 }
 ```
-
-## the idea
-
-mad props to [lilislilit](https://github.com/lilislilit).
